@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Object-Oriented Programming ",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
